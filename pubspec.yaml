@@ -1,0 +1,38 @@
+name: portifolio_rodrigo_ferreira
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.20
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:  
+    - assets/images/email.jpg
+    - assets/images/github.jpg
+    - assets/images/linkedin.jpg
+    - assets/images/perfil.jpg
+    - assets/images/whatsapp.jpg
+    - assets/images/n26.jpg
+    - assets/images/bold.jpg
+    - assets/images/satoshi.jpg
+    - assets/images/tribanco.jpg
+
+
